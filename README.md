@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jatin-devpura
-- 👀 I’m interested in PHP & PHP Framework
-- 🌱 I’m currently learning Core PHP
+- 👀 I’m interested in Coding
+- 🌱 Currently I'm learning Laravel-React
 - 💞️ I’m looking to collaborate on PHP Framework
 - 📫 How to reach me skype(https://join.skype.com/invite/X04WV4gX1yKE)
 
